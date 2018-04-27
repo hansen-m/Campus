@@ -1,0 +1,24 @@
+PODS:
+  - geos (3.5.0)
+  - GEOSwift (2.1.2):
+    - geos (= 3.5.0)
+
+DEPENDENCIES:
+  - GEOSwift (from `https://github.com/GEOSwift/GEOSwift.git`)
+
+EXTERNAL SOURCES:
+  GEOSwift:
+    :git: https://github.com/GEOSwift/GEOSwift.git
+
+CHECKOUT OPTIONS:
+  GEOSwift:
+    :commit: 8a27f3be032572b496e96d399d6a0e1a887530c0
+    :git: https://github.com/GEOSwift/GEOSwift.git
+
+SPEC CHECKSUMS:
+  geos: e96c6ca3f3ce02d20feaa8d90d4af383e11e7198
+  GEOSwift: a60e3b66c49f7951e64a87f3a8e723ce1a041bae
+
+PODFILE CHECKSUM: 1b008d73ec5483ae09b2af6a78b82e384545f655
+
+COCOAPODS: 1.4.0
